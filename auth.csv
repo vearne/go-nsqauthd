@@ -1,4 +1,4 @@
 login,ip,tls_required,topic,channel,subscribe,publish
-4BFE467B-FCBA-4519-BAC8-E9A3C57EDEB6,,false,test,test,subscribe,publish
+4BFE467B-FCBA-4519-BAC8-E9A3C57EDEB6,,false,test,.*,subscribe,publish
 test_local,127.0.0.1,true,local,.*,subscribe,publish
 test_publish,127.0.0.1/24,false,test_publish,,,publish
